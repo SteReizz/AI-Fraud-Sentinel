@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local transaction data (confirm redistribution rights before publishing)
+transacoes_historico_2025.csv
+transacoes_jan2026.csv
+transacoes_jan2026_classificadas.csv
